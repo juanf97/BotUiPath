@@ -1,0 +1,1 @@
+start "" /min "C:\Users\JuanVC\AppData\Local\Programs\UiPath\Studio\UiRobot.exe" -f "C:\Users\JuanVC\Documents\UiPath\BooTXenco\Main.xaml"
